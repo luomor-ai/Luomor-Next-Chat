@@ -1084,8 +1084,8 @@ const internalAllowedWebDavEndpoints = [
     "https://app.koofr.net/dav/Koofr"
 ];
 const DEFAULT_GA_ID = "G-89WN60ZK2E";
-const SAAS_CHAT_URL = "https://nextchat.club";
-const SAAS_CHAT_UTM_URL = "https://nextchat.club?utm=github";
+const SAAS_CHAT_URL = "https://chatgpt.luomor.com/";
+const SAAS_CHAT_UTM_URL = "https://chatgpt.luomor.com/";
 
 
 /***/ }),
