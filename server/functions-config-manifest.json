@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/config":{},"/api/artifacts":{},"/api/tencent":{},"/api/upstash/[action]/[...key]":{},"/api/[provider]/[...path]":{},"/api/webdav/[...path]":{}}}
