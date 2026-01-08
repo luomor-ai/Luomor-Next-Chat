@@ -17,7 +17,7 @@ COPY static ./.next/static
 COPY server ./.next/server
 
 RUN mkdir -p /app/app/mcp && chmod 777 /app/app/mcp
-COPY --from=builder /app/app/mcp/mcp_config.default.json /app/app/mcp/mcp_config.json
+COPY mcp/mcp_config.default.json /app/app/mcp/mcp_config.json
 
 EXPOSE 3000
 
